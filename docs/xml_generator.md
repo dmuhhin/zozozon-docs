@@ -1,3 +1,2 @@
-# xml_generator
-
-Генератор XML фидов.
+## XML Generator
+Как создаются XML-файлы.

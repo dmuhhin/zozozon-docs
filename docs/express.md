@@ -1,3 +1,2 @@
-# express
-
-Node.js сервер с API маршрутами.
+## Express API
+Описание маршрутов и логики API.

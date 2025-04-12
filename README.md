@@ -1,3 +1,2 @@
-# ZOZOZON Internal Docs
-
-Описание архитектуры скриптов и базы данных.
+# ZOZOZON Project Documentation
+Общее описание архитектуры и структуры проекта.

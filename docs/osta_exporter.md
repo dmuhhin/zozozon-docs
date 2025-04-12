@@ -1,3 +1,2 @@
-# osta_exporter
-
-Экспорт заказов на Osta.ee.
+## Osta Exporter
+Логика выгрузки заказов.

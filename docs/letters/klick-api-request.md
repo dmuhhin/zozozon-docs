@@ -1,6 +1,6 @@
 # Письмо в Klick: запрос API-доступа
 
-Кому: arimuuk@klick.ee (бизнес-продажи Klick)
+Кому: info@klick.ee (arimuuk@klick.ee не существует)
 
 **Teema:** API ligipääs – Alfieri Grupp OÜ (ZOZOZON)
 

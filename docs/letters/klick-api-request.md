@@ -6,7 +6,7 @@
 
 Tere!
 
-Oleme Klicki äriklient Alfieri Grupp OÜ (e-pood ZOZOZON, b2b.klick.ee konto: info@zozozon.com). Varem tegime koostööd Ordiga.
+Oleme Klicki äriklient Alfieri Grupp OÜ (e-pood ZOZOZON). Varem tegime koostööd Ordiga.
 
 Soovime lisada Klicki oma e-poe tarnijaks. Kas teil on võimalik anda meile API ligipääs?
 
@@ -20,4 +20,4 @@ info@zozozon.com
 
 ---
 
-**Перевод:** Здравствуйте! Мы бизнес-клиент Klick — Alfieri Grupp OÜ (магазин ZOZOZON, аккаунт b2b.klick.ee: info@zozozon.com). Раньше работали с Ordi. Хотим подключить Klick как поставщика нашего интернет-магазина. Можете дать нам API-доступ? Подскажите, пожалуйста, к кому обратиться по этому вопросу. Спасибо!
+**Перевод:** Здравствуйте! Мы бизнес-клиент Klick — Alfieri Grupp OÜ (магазин ZOZOZON). Раньше работали с Ordi. Хотим подключить Klick как поставщика нашего интернет-магазина. Можете дать нам API-доступ? Подскажите, пожалуйста, к кому обратиться по этому вопросу. Спасибо!

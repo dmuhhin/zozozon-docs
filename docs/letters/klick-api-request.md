@@ -14,7 +14,7 @@ Palun andke teada, kellega selles küsimuses suhelda.
 
 Tänan!
 
-[Nimi]
+Valery Mukhin
 ZOZOZON
 info@zozozon.com
 

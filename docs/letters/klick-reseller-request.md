@@ -11,7 +11,7 @@ Thank you for the call today.
 
 As discussed, after the Ordi and Klick merger our company account was set up as a business buyer account. We need a reseller account instead.
 
-About us: Alfieri Grupp OÜ runs the online store ZOZOZON. We sell online to customers in most developed countries. We work with distributors on a long-term basis – for example, we have been working with ACC Distribution for more than 20 years.
+About us: Alfieri Grupp OÜ runs the online store ZOZOZON and a service center. Our main focus is sales – we work with brands such as Bosch and Makita. Previously we sold on Amazon and eBay, and now we sell through our own online store to customers in most developed countries. We work with distributors on a long-term basis – for example, we have been working with ACC Distribution for more than 20 years.
 
 What we would like:
 - a reseller account with reseller prices;
